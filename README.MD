@@ -2,9 +2,9 @@
 
 ## Работа с GIT
 
-<p align = "center"><https://www.pngwing.com/ru/free-png-xnpkb></p>
+<p align = "center"><img src="https://www.pngwing.com/ru/free-png-xnpkb"></p>
 
-<p><a https://ru.wikipedia.org/wiki/GitHub>ССЫЛКА</a></p>
+<p><a href="https://ru.wikipedia.org/wiki/GitHub">ССЫЛКА</a></p>
 
 ------
 
