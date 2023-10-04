@@ -2,9 +2,9 @@
 
 ## Работа с GIT
 
-<p align = "center"><https://www.pngwing.com/ru/free-png-xnpkb></p>
+<p align = "center"><img src="https://wotpack.ru/wp-content/uploads/2022/12/word-image-191100-1-scaled.jpeg"></p>
 
-<p><a https://ru.wikipedia.org/wiki/GitHub>ССЫЛКА</a></p>
+<p><a href="https://genshin.hoyoverse.com/ru/">ССЫЛКА</a></p>
 
 ------
 
